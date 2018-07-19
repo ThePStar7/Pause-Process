@@ -1,8 +1,4 @@
-# Pause/unpause a process. Just provide a PID or a PID from the pipeline
-# by Mick Douglas @BetterSafetyNet
 
-# License: Creative Commons Attribution
-# https://creativecommons.org/licenses/by/4.0/
 
 # Warning:
 # This script will pause (and unpause) running programs.
